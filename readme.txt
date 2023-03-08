@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Creating a new branch is quick and simple.
 Have a change to test --no-ff.
 Have a change to test Github Desktop.
+Have a try on bug.
